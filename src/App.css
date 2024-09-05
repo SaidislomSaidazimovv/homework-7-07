@@ -1,0 +1,9 @@
+.active {
+    color: rgb(58, 58, 58);
+    background: rgb(163, 189, 255);
+    box-shadow: inset 0 0 5px 5px black;
+}
+
+iframe {
+    width: 100%;
+}
